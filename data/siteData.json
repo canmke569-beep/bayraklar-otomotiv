@@ -1,0 +1,122 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "title": "2024 SKODA SUPERB 1.5 TSi PREMIUM",
+      "subtitle": "BOYASIZ",
+      "images": [
+        "/RESİM1.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "2024 FORD FOCUS 1.5 ECOBLUE",
+      "subtitle": "TİTANİUM STİL",
+      "images": [
+        "/RESİM2.png"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "2025 MERCEDES GLC 180 AMG",
+      "subtitle": "FULL PAKET",
+      "images": [
+        "/RESİM3.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "2024 HYUNDAİ STARİA 2.2 CRDİ",
+      "subtitle": "ELİTE TAM DOLU",
+      "images": [
+        "/RESİM4.png"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "2023 AUDİ E-TRON GT QUATTRO",
+      "subtitle": "BAYİ HATASIZ",
+      "images": [
+        "/RESİM5.png"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "2024 FIAT EGEA 1.6 MULTIJET",
+      "subtitle": "LOUNGE DCT",
+      "images": [
+        "/RESİM6.png"
+      ]
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Mehmet Bayrak",
+      "title": "Galeri Sahibi",
+      "phone": "0 (532) 262 99 25"
+    },
+    {
+      "id": 2,
+      "name": "Burak Yılmaz",
+      "title": "Danışman",
+      "phone": "0 (532) 359 11 78"
+    },
+    {
+      "id": 3,
+      "name": "Fırat Çam",
+      "title": "Danışman",
+      "phone": "0 (532) 302 57 96"
+    },
+    {
+      "id": 4,
+      "name": "İbrahim Yeşil",
+      "title": "Danışman",
+      "phone": "0 (554) 551 38 87"
+    },
+    {
+      "id": 5,
+      "name": "Ali Aydoğan",
+      "title": "Danışman",
+      "phone": "0 (546) 957 91 58"
+    },
+    {
+      "id": 6,
+      "name": "Ahmet Bayrak",
+      "title": "Danışman",
+      "phone": "0 (554) 184 96 25"
+    },
+    {
+      "id": 7,
+      "name": "İsmet Bayrak",
+      "title": "Danışman",
+      "phone": "0 (532) 459 72 76"
+    }
+  ],
+  "socialMedia": [
+    {
+      "id": 1,
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/bayraklarotomotivankara/"
+    }
+  ],
+  "heroImages": [
+    {
+      "id": 1,
+      "image": "/hero.webp"
+    },
+    {
+      "id": 2,
+      "image": "/hero2.webp"
+    },
+    {
+      "id": 3,
+      "image": "/hero3.webp"
+    }
+  ],
+  "admin": {
+    "username": "admin",
+    "password": "bayraklar2024"
+  },
+  "securityCode": "BYR2024X"
+}
